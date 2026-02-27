@@ -1,0 +1,1 @@
+import{j as e,L as o}from"./index-CkjN8yz2.js";import{A as t}from"./arrow-left-qcQuhSFk.js";function m(){return e.jsxs(o,{to:"/",className:"inline-flex items-center text-muted-foreground hover:text-foreground transition-colors text-sm font-medium mb-8",children:[e.jsx(t,{className:"w-4 h-4 mr-2"}),"Back to home"]})}export{m as B};
